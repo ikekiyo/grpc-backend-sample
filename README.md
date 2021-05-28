@@ -1,9 +1,6 @@
 # grpc-backend-sample
 grpcを使ったbackendのサンプル + protoc-gen-docを使ったAPI Documentationの自動生成
 
-# RPC通信
-
-
 # API Documents
 protoc-gen-doc
 https://github.com/pseudomuto/protoc-gen-doc
