@@ -1,11 +1,9 @@
 # grpc-backend-sample
 grpcを使ったbackendのサンプル + protoc-gen-docを使ったAPI Documentationの自動生成
 
-# API Documents
-protoc-gen-doc
-https://github.com/pseudomuto/protoc-gen-doc
+# API Documentation
+[protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc)
 
-## document sample image
 ![protoc-gen-doc sample image](./doc/protoc-doc.png "サンプル")
 
 
